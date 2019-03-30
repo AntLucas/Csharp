@@ -1,0 +1,14 @@
+C:\Users\Bruno\Desktop\Atividade\Atividade\bin\Debug\Atividade.exe
+C:\Users\Bruno\Desktop\Atividade\Atividade\bin\Debug\Atividade.pdb
+C:\Users\Bruno\Desktop\Atividade\Atividade\obj\x86\Debug\insert_csharp.Form1.resources
+C:\Users\Bruno\Desktop\Atividade\Atividade\obj\x86\Debug\insert_csharp.frmCliente.resources
+C:\Users\Bruno\Desktop\Atividade\Atividade\obj\x86\Debug\insert_csharp.frmFuncionario.resources
+C:\Users\Bruno\Desktop\Atividade\Atividade\obj\x86\Debug\insert_csharp.frmPessoa.resources
+C:\Users\Bruno\Desktop\Atividade\Atividade\obj\x86\Debug\insert_csharp.frmPessoaDoc.resources
+C:\Users\Bruno\Desktop\Atividade\Atividade\obj\x86\Debug\Atividade.Properties.Resources.resources
+C:\Users\Bruno\Desktop\Atividade\Atividade\obj\x86\Debug\Atividade.csproj.GenerateResource.Cache
+C:\Users\Bruno\Desktop\Atividade\Atividade\obj\x86\Debug\Atividade.exe
+C:\Users\Bruno\Desktop\Atividade\Atividade\obj\x86\Debug\Atividade.pdb
+C:\Users\Bruno\Desktop\Atividade\Atividade\obj\x86\Debug\Atividade.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\Atividade\Atividade\obj\x86\Debug\Atividade.Form1.resources
+C:\Users\Bruno\Desktop\Atividade\Atividade\obj\x86\Debug\Atividade.frmPessoa.resources
