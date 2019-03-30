@@ -1,0 +1,10 @@
+G:\3º Modulo\DS II\ProvaDsAntonioLucas\ProvaDsAntonioLucas\bin\Debug\ProvaDsAntonioLucas.exe
+G:\3º Modulo\DS II\ProvaDsAntonioLucas\ProvaDsAntonioLucas\bin\Debug\ProvaDsAntonioLucas.pdb
+G:\3º Modulo\DS II\ProvaDsAntonioLucas\ProvaDsAntonioLucas\obj\x86\Debug\ProvaDsAntonioLucas.Form1.resources
+G:\3º Modulo\DS II\ProvaDsAntonioLucas\ProvaDsAntonioLucas\obj\x86\Debug\ProvaDsAntonioLucas.Properties.Resources.resources
+G:\3º Modulo\DS II\ProvaDsAntonioLucas\ProvaDsAntonioLucas\obj\x86\Debug\ProvaDsAntonioLucas.csproj.GenerateResource.Cache
+G:\3º Modulo\DS II\ProvaDsAntonioLucas\ProvaDsAntonioLucas\obj\x86\Debug\ProvaDsAntonioLucas.exe
+G:\3º Modulo\DS II\ProvaDsAntonioLucas\ProvaDsAntonioLucas\obj\x86\Debug\ProvaDsAntonioLucas.pdb
+G:\3º Modulo\DS II\ProvaDsAntonioLucas\ProvaDsAntonioLucas\obj\x86\Debug\ProvaDsAntonioLucas.Form2.resources
+E:\3º Modulo\DS II\ProvaDsAntonioLucas\ProvaDsAntonioLucas\obj\x86\Debug\ProvaDsAntonioLucas.exe
+E:\3º Modulo\DS II\ProvaDsAntonioLucas\ProvaDsAntonioLucas\obj\x86\Debug\ProvaDsAntonioLucas.pdb
