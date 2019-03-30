@@ -1,0 +1,8 @@
+G:\3º Modulo\DS II\Cadastro de Empresa\CadastrarEmpresa.cs\CadastrarEmpresa.cs\bin\Debug\CadastrarEmpresa.cs.exe
+G:\3º Modulo\DS II\Cadastro de Empresa\CadastrarEmpresa.cs\CadastrarEmpresa.cs\bin\Debug\CadastrarEmpresa.cs.pdb
+G:\3º Modulo\DS II\Cadastro de Empresa\CadastrarEmpresa.cs\CadastrarEmpresa.cs\obj\x86\Debug\CadastrarEmpresa.cs.Form1.resources
+G:\3º Modulo\DS II\Cadastro de Empresa\CadastrarEmpresa.cs\CadastrarEmpresa.cs\obj\x86\Debug\CadastrarEmpresa.cs.Properties.Resources.resources
+G:\3º Modulo\DS II\Cadastro de Empresa\CadastrarEmpresa.cs\CadastrarEmpresa.cs\obj\x86\Debug\CadastrarEmpresa.cs.csproj.GenerateResource.Cache
+G:\3º Modulo\DS II\Cadastro de Empresa\CadastrarEmpresa.cs\CadastrarEmpresa.cs\obj\x86\Debug\CadastrarEmpresa.cs.exe
+G:\3º Modulo\DS II\Cadastro de Empresa\CadastrarEmpresa.cs\CadastrarEmpresa.cs\obj\x86\Debug\CadastrarEmpresa.cs.pdb
+G:\3º Modulo\DS II\Cadastro de Empresa\CadastrarEmpresa.cs\CadastrarEmpresa.cs\obj\x86\Debug\CadastrarEmpresa.cs.csprojResolveAssemblyReference.cache
